@@ -18,8 +18,8 @@ del archivo que están al final y salvar.
 4. Para generar los archivos en .pdf, abra la terminal de comandos y ubíquese en la carpeta tex
 y ejecute la siguiente línea de comando según el sistema operativo:
 
-# GNU-Linux
-# for i in *.tex; do pdflatex $i; done && rm *.aux *.log *.tex
+En GNU-Linux:
+for i in *.tex; do pdflatex $i; done && rm *.aux *.log *.tex
 
-# MS Windows
-#  FOR \%i IN (*.tex) DO pdflatex %i &&  DEL *.log *.aux *.out
+En MS Windows:
+FOR \%i IN (*.tex) DO pdflatex %i &&  DEL *.log *.aux *.out
