@@ -5,7 +5,7 @@ Generación de pruebas parametrizables con python y latex
 Instrucciones
 
 1. Abrir en cualquier editor de Python, el archivo code.py.
-2. Para generar los archivos .tex descomentar (quitar el #) alguna de las líneas finales
+2. Para generar los archivos .tex descomentar (quitar el #) de una de las líneas finales
 del archivo que están al final y salvar.
 
 #ejer1(m)
