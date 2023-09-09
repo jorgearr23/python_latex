@@ -8,9 +8,10 @@ Instrucciones
 2. Para generar los archivos .tex descomentar (quitar el #) alguna de las líneas finales
 del archivo que están al final y salvar.
 
-m=10 
-#ejer1(m)
-#ejer2(m)
+# ejer1(m)
+
+# ejer2(m)
+
 
 3. Ejecutar el archivo code.py
 
